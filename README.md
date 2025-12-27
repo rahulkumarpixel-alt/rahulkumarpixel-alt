@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi, I'm Rahul Kumar 👋
 
-<!--
-**rahulkumarpixel-alt/rahulkumarpixel-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Polytechnic Student | Aspiring B.Tech Engineer  
+💻 Passionate about Programming & Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+- Python  
+- C Programming  
+- Java  
+- HTML & CSS  
+- Django (Beginner)
+
+---
+
+### 📚 Currently
+- Studying Polytechnic  
+- Preparing for B.Tech  
+- Improving Python & Django skills  
+
+---
+
+### 🔧 Projects
+- Django Web Projects  
+- Practice programs in C, Java & Python  
+
+---
+
+### 🎯 Goals
+- Become a skilled Software Engineer  
+- Build real-world projects  
+- Learn advanced backend development  
+
+---
+
+### 📫 Connect with me
+- GitHub: https://github.com/rahulkumarpixel-alt
