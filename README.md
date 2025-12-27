@@ -1,4 +1,4 @@
-## Hi, I'm Rahul Kumar 👋
+## Hi, I'm Rahul Kumar Giri 👋
 
 🎓 Polytechnic Student | Aspiring B.Tech Engineer  
 💻 Passionate about Programming & Web Development  
